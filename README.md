@@ -5,4 +5,4 @@ My goal here is to make the best global list of CSS Helpers for Front - End Deve
 
 Please feel free to contribute and make the difference.
 
-By Michael Lancaster
+By Michael Lancaster.
