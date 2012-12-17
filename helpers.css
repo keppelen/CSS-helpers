@@ -1,0 +1,24 @@
+/*------------------------------------*\
+    $helpers
+\*------------------------------------*/
+.fl { float: left; }
+.fr { float: right; }
+
+.caps { text-transform: uppercase; }
+
+.ir {
+	display: block;
+	text-indent: -99999px;
+}
+
+.txtl { text-align: left; }
+.txtr { text-align: right; }
+.txtj { text-align: justify; }
+
+.dn { display: none; }
+.db { display: block; }
+.di { display: inline; }
+
+.clearb { clear: both; }
+
+.bdn { border: none; }
