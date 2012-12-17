@@ -20,5 +20,10 @@
 .di { display: inline; }
 
 .clearb { clear: both; }
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 
 .bdn { border: none; }
