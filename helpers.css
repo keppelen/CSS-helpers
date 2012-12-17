@@ -20,7 +20,7 @@
 .di { display: inline; }
 
 .clearb { clear: both; }
-.clearfix:after {
+.cfix:after {
   content: "";
   display: table;
   clear: both;
